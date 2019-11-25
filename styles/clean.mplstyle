@@ -1,0 +1,13 @@
+# Matplotlib clean up axes
+
+# Set axes
+axes.spines.top : True
+axes.spines.right : True
+
+# Set x axis
+xtick.minor.visible : False
+xtick.top : False
+
+# Set y axis
+ytick.minor.visible : False
+ytick.right : False
